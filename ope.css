@@ -20,7 +20,8 @@ h1 {margin: 0px;
 
 .headerContainer h2{text-align: center;}
 .headerContainer h2:hover{color: #0088B2;
-	background-color: #F8F8F8;} /*this is the concept but it needs to be fixed*/
+	cursor: pointer;
+	background-color: #F0F0F0;} /*this is the concept but it needs to be fixed*/
 	
 .workflow, .sparks, .comments, .ideas, .groups {border-top-style: solid;
 	border-color: #00C3FF;
